@@ -10,6 +10,26 @@ Main(string[] args) - запуск приложения
 Меню: циклическое отображение меню выбора заданий
 Управление выполнением задач: вызов соответствующих методов для каждого задания
 
+Описание методов:
+CreateSpecialArray() - создает массив с заполнением по диагоналям
+PrintArray() - выводит массив в форматированном виде
+FillBinaryFileRandom() - заполняет файл случайными числами
+FillBinaryFileFromKeyboard() - ручной ввод чисел
+FilterBinaryData() - фильтрует данные по условию
+WriteBinaryData() - записывает результат в файл
+DisplayResults() - отображает результаты
+FillPassengersFileFromKeyboard() - интерактивный ввод данных о пассажирах
+CreateTestPassengers() - создает тестовые данные
+SavePassengersToFile() - сохраняет данные в XML
+FillTextFileFromKeyboard() - ручной ввод чисел
+CreateTestNumbers() - генерация тестовых данных
+SaveNumbersToFile() - запись в текстовый файл
+ReadNumbersFromFile() - чтение из файла
+ReadPassengersFromFile() - читает данные из XML
+FillMultiNumberFile() - создает файл с несколькими числами в строке
+FillTextContentFileFromKeyboard() - ручной ввод текста
+FillTextContentFile() - создание тестового файла
+
 Задание 1: Многомерные массивы
 Реализованные массивы:
 Массив 1 - заполняется пользователем с клавиатуры
